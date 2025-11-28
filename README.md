@@ -33,6 +33,10 @@ The pipeline performs the following steps:
 - **PostgreSQL** – Data warehouse  
 - **Python** – API calls, transformations  
 - **Docker** – Airflow environment  
-- **OpenWeather API** – Weather data source  
+- **OpenWeather API** – Weather data source
+ 
+---
+
+## 🖼️ ETL Pipeline Architecture
 
 <img width="1202" height="396" alt="Image" src="https://github.com/user-attachments/assets/095195fb-7185-4d61-9498-b8117fd88ff0" />
