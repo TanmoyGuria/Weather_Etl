@@ -35,5 +35,3 @@ The pipeline performs the following steps:
 - **Docker** – Airflow environment  
 - **OpenWeather API** – Weather data source  
 
-## 📂 **Project Structure**
-
